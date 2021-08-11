@@ -1,16 +1,13 @@
 # foody_cookbook
 
-A new Flutter project.
+A new Flutter project. (Task given by Reading Right team)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- This project is a flutter application where you can view lot of different dishes around the world.
+- You can like a dish, so that you can find it in your liked list.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Here are API's:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Meals API - ](https://www.themealdb.com/api.php)
