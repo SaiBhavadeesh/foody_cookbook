@@ -10,4 +10,4 @@ A new Flutter project. (Task given by Reading Right team)
 
 Here are API's:
 
-- [Meals API - ](https://www.themealdb.com/api.php)
+- [Meals API](https://www.themealdb.com/api.php)
